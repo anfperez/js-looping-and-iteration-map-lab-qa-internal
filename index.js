@@ -20,3 +20,5 @@ function attributesToPhrase(drivers) {
     return `${driver.name} is from ${driver.hometown}`;
   });
 }
+
+${variable}
